@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApplication20.a_Másnapos_a_szöcske">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>a Másnapos a szöcske.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Barna_a_medve">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Barna a medve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.bolha">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>bolha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.CsacskaNyúl">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAgAEAAAAACAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CsacskaNyúl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TréMedve" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleApplication20.Hóvirág">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Hóvirág.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Para_a_róka">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Para a róka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.TréMedve">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAEAAAAAAAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>TréMedve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Versenyfolyamat">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAgAEAAAAABAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Versenyfolyamat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.ZsigaCsiga">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAgAEAAAAACAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ZsigaCsiga.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TréMedve" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleApplication20.Program" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>E:\Bg\zh1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
